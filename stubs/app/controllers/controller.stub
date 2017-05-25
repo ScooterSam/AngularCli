@@ -1,0 +1,7 @@
+{{app_name}}.controller('{{name}}', ['$scope', ($scope) => {
+
+    $scope.init = () => {
+
+    };
+
+}]);
