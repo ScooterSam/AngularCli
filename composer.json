@@ -7,8 +7,6 @@
   "homepage": "https://github.com/ScooterSam/AngularCli",
   "license": "MIT",
   "require": {
-    "symfony/console": "^2.6",
-    "symfony/filesystem": "^3.2"
   },
   "autoload": {
     "classmap": [
